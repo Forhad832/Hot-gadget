@@ -1,0 +1,233 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    font-family: Arial, Helvetica, sans-serif;
+}
+.clear::after{
+	content: "";
+	clear: both;
+	display: block;
+}
+.mid-content{
+    max-width: 1300px;
+    margin: auto;
+}
+.text-center{
+    text-align: center;
+}
+.left{
+    float: left;
+}
+img{
+    max-width: 100%;
+}
+.logo img {
+	max-width: 124px;
+
+}
+.navbar {
+    width: 100%;
+    margin-top: 30px;
+}
+.nav {
+	position: relative;
+	left: 670px;
+}
+.nav li {
+	display: inline-block;
+	margin-top: 18px;
+}
+.nav ul li a {
+	text-decoration: none;
+	padding: 0 20px;
+	color: rgb(143, 138, 138);
+}
+
+.half-width.left {
+	width: 44%;
+	padding: 34px 0;
+	margin-bottom: 60px;
+	margin-left: 69px;
+}
+.half-width img{
+
+}
+.mack-details {
+	margin-top: 180px;
+	position: relative;
+	right: 67px;
+}
+.mack-details h1 {
+	font-size: 34px;
+	margin-bottom: 25px;
+}
+.mack-details p {
+	font-size: 15px;
+	line-height: 1.2em;
+	margin-bottom: 20px;
+	letter-spacing: 1px;
+}
+.default-btn {
+	padding: 8px 31px;
+	font-size: 14px;
+	font-weight: bold;
+	background: black;
+
+	border: none;
+    border-radius: 5px;
+   
+}
+.default-btn a{
+    text-decoration: none;
+    color: #fff;
+}
+.mobile-section{
+    padding: 100px 0;
+}
+.phn-header h1{
+	font-size: 30px;
+	margin-bottom: 30px;
+}
+.mobile-phn {
+	width: 22%;
+	box-shadow: 3px 4px 30px 0 rgba(50, 50, 51, 0.1);
+	border-radius: 3px;
+	margin-right: 80px;
+	margin-left: 62px;
+}
+.mobile-price{
+	margin-left: 10px;
+margin-bottom: 20px;
+}
+.mobile-phn img{
+	max-width: 100%;
+}
+.mobile-phn:hover{
+    transform: scale(.98);
+    transition: 0.8s;
+}
+
+.mobile-phn h2 {
+	font-size: 17px;
+	margin-bottom: 10px;
+	margin-left: 81px;
+	margin-top: 10px;
+}
+.mobile-phn p {
+	font-size: 14px;
+	margin-bottom: 5px;
+	margin-left: 51px;
+}
+.mobile-phn span {
+	font-size: 20px;
+	font-weight: 600;
+    margin-left: 105px;
+    margin-bottom: 10px;
+}
+.btn {
+	padding: 8px 31px;
+	font-size: 14px;
+	font-weight: bold;
+	background: black;
+	border: none;
+	border-radius: 5px;
+	margin-left: 70px;
+}
+.btn a{
+    text-decoration: none;
+    color: #fff;
+}
+
+.laptop {
+	box-shadow: 4px 4px 30px #ddd;
+	margin-left: 57px;
+	box-sizing: border-box;
+	padding: 11px 0;
+	border-radius: 6px;
+	margin-top: 40px;
+	margin-bottom: 100px;
+	width: 28%;
+}
+.laptop:hover{
+    transform: scale(.98);
+    transition: 0.8s;
+}
+.laptop-header h1{
+    font-size: 30px;
+}
+.laptop h2 {
+	font-size: 18px;
+	margin-left: 100px;
+	margin-bottom: 9px;
+}
+.laptop p {
+	font-size: 15px;
+	margin-left: 61px;
+	margin-bottom: 10px;
+}
+.laptop span {
+	font-size: 25px;
+	font-weight: bold;
+	margin-left: 129px;
+}
+.btn-s {
+	padding: 8px 31px;
+	font-size: 14px;
+	font-weight: bold;
+	background: black;
+	border: none;
+	border-radius: 5px;
+	margin-left: 90px;
+}
+.btn-s a{
+    text-decoration: none;
+    color: #fff;
+}
+.btn-s:hover{
+    background-color: coral;
+}
+ .btn:hover{
+    background-color: coral;
+    transform: scale(.99);
+    transition: 0.3s;
+}
+.default-btn:hover{
+    background-color: coral;
+ 
+}
+.category  h1{
+	margin-bottom: 80px;
+	font-size: 30px;
+}
+.category-item {
+	width: 45%;
+	margin-left: 5%;
+	margin-bottom: 60px;
+}
+.category-img {
+	display: inline-block;
+	padding: 20px 27px;
+}
+.all-img img {
+	box-shadow: 4px 4px 30px #ddd;
+	padding: 42px 27px;
+	box-sizing: border-box;
+	max-width: 100%;
+	margin-top: 72px;
+	border-radius: 6px;
+}
+
+.image {
+	position: absolute;
+	left: 318px;
+	top: 2071px;
+}
+
+footer p {
+	font-size: 17px;
+	font-weight: bold;
+	font-family: arial;
+	margin-top: 20px;
+}

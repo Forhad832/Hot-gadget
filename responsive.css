@@ -1,0 +1,361 @@
+@media (max-width:1920px){
+    .image {
+        left: 650px;
+        top: 2038px;
+    }
+}
+
+@media (max-width:1400px){
+    .nav {
+        left: 724px;
+    }
+    .image {
+        left: 371px;
+    }
+    .mack-details {
+        right: 67px;
+    }
+}
+@media (max-width:1199px){
+    .nav {
+        left: 632px;
+    }
+    .phn-header h1 {
+        font-size: 26px;
+        margin-bottom: 30px;
+    }
+    .mobile-phn {
+        margin-left: 95px;
+    }
+    .laptop-header h1 {
+        font-size: 26px;
+    }
+    .laptop {
+        margin-left: 36px;
+    }
+    .image {
+        left: 326px;
+    }
+    .all-img img{
+        margin-top: 53px;
+    }
+    footer p {
+        font-size: 16px;
+    }
+}
+@media (max-width:1050px){
+    .nav ul li a {      
+        padding: 0 15px;
+    }
+    .nav {
+        left: 480px;
+    }
+    .half-width.left {
+        width: 41%;
+        margin-bottom: 0;
+    }
+    .mack-details {
+        margin-top: 120px;
+    }
+    .mack-details h1 {
+        font-size: 30px;
+    }
+    .mack-details p {
+        font-size: 14px;
+    }
+    .default-btn {
+        padding: 8px 25px;
+    }
+    .phn-header h1 {
+        font-size: 24px;
+    }
+    .mobile-phn {
+        margin-left: 35px;
+    }
+    .laptop-header h1 {
+        font-size: 24px;
+    }
+    .laptop {
+        margin-left: 31px;
+        width: 291px;
+    }
+    .image {
+        top: 1781px;
+        left: 290px;
+    }
+    .category-item {
+        margin-bottom: 79px;
+    }
+}
+@media (max-width:992px){
+    .logo img {
+        max-width: 99px;
+    }
+    .nav {
+        left: 404px;
+    }
+    .mack-details {
+        right: 67px;
+        margin-top: 90px;
+    }
+    .mack-details h1 {
+        font-size: 24px;
+    }
+    .mack-details p {
+        font-size: 13px;
+    }
+    .half-width.left {
+        width: 41%;
+        margin-bottom: 0;
+    }
+    .mobile-phn {
+        margin-left: 11px;
+        width: 250px;
+    }
+    .mobile-phn {
+        margin-left: 8px;
+        width: 250px;
+        margin-right: 45px;
+    }
+    .laptop {
+        margin-left: 20px;
+        width: 273px;
+    }
+    .category h1 {
+        font-size: 24px;
+    }
+    .all-img img {
+        margin-top: 35px;
+    }
+    footer p {
+        font-size: 13px;
+    }
+}
+
+@media (max-width:900px){
+    .nav {
+        left: 318px;
+    }
+    .mobile-phn {
+        margin-left: 24px;
+        width: 248px;
+        margin-right: 7px;
+    }
+    .mobile-phn h2 {
+        font-size: 16px;
+        margin-left: 62px; 
+    }
+    .mobile-phn p {
+        font-size: 13px;
+        margin-left: 28px;
+    }
+    .mobile-phn span {
+        margin-left: 89px;
+    }
+    .btn {
+        padding: 8px 25px;
+        margin-left: 57px;
+    }
+    .laptop {
+        margin-left: 30px;
+        width: 246px;
+    }
+    .laptop h2 {
+        font-size: 16px;
+        margin-left: 72px;
+    }
+    .laptop p {
+        font-size: 14px;
+        margin-left: 36px;
+    }
+    .laptop span {
+        font-size: 20px;
+        margin-left: 96px;
+    }
+    .btn-s {
+        padding: 8px 25px;
+        margin-left: 64px;
+    }
+    .category-item {
+        width: 100%;
+        margin-left: 0;
+        margin-bottom: 80px;
+    }
+    .image {
+        top: 1621px;
+        left: 279px;
+    }
+}
+@media (max-width:768px){
+    .logo.left {
+        width: 100%;
+        text-align: center;
+    }
+    .nav {
+        left: 153px;
+    }
+    .nav ul li a {
+        padding: 0 18px;
+    }
+    .half-width.left {
+        width: 100%;
+        padding: 0;
+        margin: 0;
+    }
+    .mack-details {
+        right: 0;
+        margin-top: 90px;
+    }
+    .mobile-phn {
+        margin-left: 175px;
+        width: 284px;
+        margin-top: 30px;
+    }
+    .phn-header h1 {
+        font-size: 22px;
+        text-align: center;
+    }
+    .laptop {
+        margin-left: 186px;
+        width: 286px;
+    }
+    .laptop-header h1 {
+        font-size: 22px;
+        text-align: center;
+    }
+    .laptop h2 {
+        font-size: 17px;
+        margin-left: 88px;
+    }
+    .laptop p {
+        font-size: 14px;
+        margin-left: 57px;
+    }
+    .laptop span {
+        font-size: 23px;
+        margin-left: 108px;
+    }
+    .btn-s {
+        margin-left: 80px;
+    }
+    .category h1 {
+        font-size: 22px;
+        text-align: center;
+    }
+    .category-item {
+        width: 100%;
+        margin-left: 0;
+        margin-bottom: 104px;
+    }
+    .image {
+        top: 4237px;
+        left: 297px;
+    }
+    footer p {
+        font-size: 15px;
+    }
+}
+@media (max-width:576px){
+    .nav {
+        left: 46px;
+    }
+    .mobile-phn {
+        margin-left: 114px;
+    }
+    .laptop {
+        margin-left: 112px;
+    }
+    .image {
+        top: 4071px;
+        left: 281px;
+    }
+    footer p {
+        font-size: 13px;
+    }
+}
+
+@media (max-width:420px){
+    .logo img {
+        max-width: 70px;
+    }
+    .navbar {
+    
+        margin-top: 12px;
+    }
+    .logo.left {
+        width: 100%;
+        text-align: center;
+        margin-bottom: 10px;
+    }
+    .nav {
+        left: 55px;
+    }
+    .nav li {
+        margin-top: 2px;
+    }
+    .nav ul li a {
+        padding: 0 10px;
+    }
+    .mack-details {
+        right: 0;
+        margin-top: 35px;
+    }
+    .mack-details h1 {
+        font-size: 22px;
+    }
+    .mack-details p {
+        font-size: 11px;
+    }
+    .default-btn {
+        padding: 6px 12px;
+    }
+    .half-width.left {
+        width: 100%;
+        margin-bottom: 0;
+        margin-left: 0px;
+    }
+    .phn-header h1 {
+        font-size: 20px;
+    }
+    .mobile-phn {
+        margin-left: 61px;
+        margin-top: 20px;
+    }
+    .laptop-header h1 {
+        font-size: 20px;
+    }
+    .laptop {
+        margin-left: 67px;
+       
+    }
+    .laptop h2 {
+        font-size: 15px;
+        margin-left: 91px;
+    }
+    .laptop p {
+        font-size: 14px;
+        margin-left: 46px;
+    }
+    .laptop span {
+        font-size: 20px;
+        margin-left: 103px;
+    }
+    .btn-s {
+        margin-left: 71px;
+    }
+    .category h1 {
+        font-size: 20px;
+    }
+    .category-item {
+        width: 100%;
+        margin-left: 0%;
+        margin-bottom: 120px;
+    }
+    .image {
+        top: 3849px;
+        left: 213px;
+    }
+    footer p {
+        font-size: 11px;
+    }
+}
